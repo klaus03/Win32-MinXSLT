@@ -6,7 +6,7 @@ package Win32::MinXSLT;
 use Carp;
 use Win32::OLE;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our $Dom;
 our $MsVer;
@@ -235,7 +235,7 @@ For example, the following use statement selects 'Msxml2.DOMDocument', version 3
 
 =head1 AUTHOR
 
-Klaus Eichner, E<lt>klaus03@gmail.com<gt>
+Klaus Eichner, E<lt>klaus03@gmail.comE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 

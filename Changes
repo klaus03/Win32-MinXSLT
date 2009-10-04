@@ -2,3 +2,7 @@ Revision history for Perl extension Win32::MinXSLT.
 
 0.01  26 Sep 2009
       - original version, released on an unsuspecting world
+
+0.02  04 Oct 2009
+      - Correct e-mail address in the Author section of the POD documentation
+      - Include dependency on Win32::OLE in Makefile.PL
