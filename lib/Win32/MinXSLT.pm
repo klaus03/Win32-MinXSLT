@@ -6,7 +6,7 @@ package Win32::MinXSLT;
 use Carp;
 use Win32::OLE;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 our $Dom;
 our $MsVer;
