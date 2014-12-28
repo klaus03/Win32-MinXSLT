@@ -1,9 +1,0 @@
-.gitignore
-Changes
-Makefile.PL
-MANIFEST
-README
-t/Win32-MinXSLT.t
-lib/Win32/MinXSLT.pm
-META.yml                                 Module meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
